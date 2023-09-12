@@ -1,8 +1,10 @@
-### Hi there 👋
-
 # 💫 About Me:
-I'm currently working on a 2-wheeled self-balancing robot. <br>I'm currently learning system-on-chip (SoC) development
+I’m a senior at UT Arlington pursuing a major in Computer Engineering. Throughout my academic journey in engineering, I've worked towards creating strategies and experiences for invisible layers of society and cultures but I've always been captivated by the "why" behind my code, pushing me to seek out problems and craft innovative solutions. By integrating diverse perspectives and adopting a collaborative approach to product innovation, I aspire to create seamless and engaging experiences for users. <br> <br>
 
+recently — <br>
+🖥️ interned at Dell Technologies as a Software Engineer, contributing to projects aimed at enhancing customer experiences. <br>
+🎓 engaged in system-on-chip (SoC) development and mechatronics coursework at UT Arlington. <br>
+🔬 conducted research on vacuum retraction viscosity sensing for soft material fabrication. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athiyamanoj/) 
