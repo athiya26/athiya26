@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 About Me:
-Hi, I’m a senior at UT Arlington pursuing a major in Computer Engineering!<br>
+Hi, I’m a senior at UT Arlington majoring in Computer Engineering!<br>
 
 Throughout my academic journey in engineering, I've worked towards creating strategies and experiences for invisible layers <br>
-of society and cultures but I've always been captivated by the "why" behind my code, pushing me to seek out problems and craft innovative solutions.<br>
+of society and cultures, but I've always been captivated by the "why" behind my code, pushing me to seek out problems and craft innovative solutions.<br>
 
 By integrating diverse perspectives and adopting a collaborative approach to product innovation, I aspire to create seamless and engaging experiences for users. <br>
 
