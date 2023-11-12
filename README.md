@@ -8,7 +8,7 @@ By integrating diverse perspectives and adopting a collaborative approach to pro
 
 recently — <br><br>
 🖥️ interned at Dell Technologies as a Software Engineer, contributing to projects aimed at enhancing customer experiences. <br>
-🎓 engaged in system-on-chip (SoC) development and mechatronics coursework at UT Arlington. <br>
+🎓 engaged in embedded systems and mechatronics coursework at UT Arlington. <br>
 🔬 conducted research on vacuum retraction viscosity sensing for soft material fabrication. <br>
 
 ## 🌐 Socials:
