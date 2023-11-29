@@ -4,7 +4,7 @@ Hi, I’m a senior at UT Arlington majoring in Computer Engineering!<br>
 
 Throughout my academic journey in engineering, I've worked towards creating strategies and experiences for invisible layers of society and cultures, but I've always been captivated by the "why" behind my code, pushing me to seek out problems and craft innovative solutions.<br>
 
-By integrating diverse perspectives and adopting a collaborative approach to product innovation, I aspire to create seamless and engaging experiences for users. <br>
+By integrating diverse perspectives and adopting a collaborative<br>approach to product innovation, I aspire to create seamless and engaging<br>experiences for users. <br>
 
 recently — <br><br>
 🖥️ interned at Dell Technologies as a Software Engineer, contributing to projects aimed at enhancing customer experiences. <br>
