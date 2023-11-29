@@ -2,7 +2,7 @@
 Hi, I’m a senior at UT Arlington majoring in Computer Engineering!<br>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
 
-Throughout my academic journey in engineering, I've worked towards creating strategies and experiences for invisible layers of society and cultures, but I've always been captivated by the "why" behind my code, pushing me to seek out problems and craft innovative solutions.<br>
+Throughout my academic journey in engineering, I've worked towards creating<br> strategies and experiences for invisible layers of society and cultures, but I've always <br>been captivated by the "why" behind my code, pushing me to seek out problems and craft<br> innovative solutions.<br>
 
 By integrating diverse perspectives and adopting a collaborative<br>approach to product innovation, I aspire to create seamless and engaging<br>experiences for users. <br>
 
